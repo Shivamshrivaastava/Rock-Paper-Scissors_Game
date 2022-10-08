@@ -1,0 +1,23 @@
+body {
+  color: tomato;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* align-self: baseline; */
+  align-content: center;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/603/260/908/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg);
+
+}
+.btn1{
+  color: rgb(189, 8, 38);
+  background:grey;
+}
+.btn2{
+  color: rgb(223, 3, 3);
+  background-color:blue;
+}
+.btn3{
+  color: burlywood;
+  background-color: brown;
+}
